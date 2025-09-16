@@ -62,7 +62,7 @@ Insight: Indicates possible seasonal demand shifts or increased competition.
 Breaks down sales and gross profit by manager. Miss Lillian Pruitt leads with 4.27M in sales, while Mr. Jeremy Garcia shows weaker performance. Sparklines reveal individual sales trends over time.  
 
 ![alt text](/Images/Buyer%20bar%20chart.PNG)  
-**Top Buyers** (Bar Chart):
+**Top Buyers** (Bar Chart):  
 Highlights customers with the highest purchase values. Howard Wright, Richard Carr, and Elizabeth Gentry lead with 2M+ sales each, representing key accounts for targeted retention strategies.
 
 ![alt text](/Images/slicer.PNG)  
